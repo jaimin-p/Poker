@@ -1,7 +1,7 @@
 # Poker Game Implementation 
 
 ## Input
-# comma seprtated input e.g.H9,D6,C3,D5,H11 
+### comma seprtated input e.g.H9,D6,C3,D5,H11 
 Condition : should be more than 5 cards
 
 H : Heart
