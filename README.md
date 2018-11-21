@@ -9,7 +9,7 @@ S : Spades
 C : Clubs
 D : Diamonds
 
-Number betwwen 1 to 14 [ 1 & 14 included] where
+Number betwwen 1 to 14
 
 11 : Jack
 12 : Queen
