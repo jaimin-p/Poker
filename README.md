@@ -1,4 +1,4 @@
-# Poker Game Implementation 
+# Poker
 
 ## Input
 ### comma seprtated input e.g.H9,D6,C3,D5,H11 
